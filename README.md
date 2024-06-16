@@ -1,1 +1,5 @@
-# Try To push github on  linux desktop Ubuntu 
+# Nama Proyek Anda
+
+Try push to github using Ubuntu Linux Environtment
+
+
